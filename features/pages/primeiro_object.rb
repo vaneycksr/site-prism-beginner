@@ -3,5 +3,5 @@
 # herda as pages do site prism
 class PrimeiroObject < SitePrism::Page
   # mapear os elementos
-  # implementar métodos
+  # implementar metodos
 end
