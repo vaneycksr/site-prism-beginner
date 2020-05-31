@@ -1,0 +1,7 @@
+---
+
+default: --profile pretty 
+pretty: -- format pretty
+progress: --format progress
+homolog: AMBIENTE = homolog
+producao: AMBIENTE = producao 
